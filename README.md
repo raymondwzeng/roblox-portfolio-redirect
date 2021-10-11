@@ -10,7 +10,7 @@ I had a friend encounter an issue where they had their portfolio on the talent h
 
 ### Usage:
 1. Fork the repo
-2. Change the repository name to <your GitHub username>.github.io
+2. Change the repository name to \<your GitHub username>.github.io
     - For example, my username **on GitHub** is `raymondwzeng`, thus the repository name is `raymondwzeng.github.io`
 3. Change the domain in `index.html` to your domain
     - Make sure you don't accidentally delete the single quote - that'll break things.
